@@ -10,7 +10,7 @@ A collection of useful links for someone who is thinking about teaching somethin
 
 ### Tools: Knowlegde Management
 - [Obsidian](https://obsidian.md/): A knowledge base management tool, that is probably better than using github. Video: https://www.youtube.com/watch?v=L9SLlxaEEXY
-- 
+
 ### Tools: Programming
 - [Thonny](https://thonny.org/): A python IDE made for teaching and education.
 
