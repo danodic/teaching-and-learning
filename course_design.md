@@ -16,5 +16,7 @@ Três elementos principais:
 
 ## Integrated Design
 Another way of approaching learning, in which there has to be an integration between activities, discussion and critical thinking. As a teacher, you provide incentives for your class to think and discuss, and activities/assessment are an outcome of this discussion/thinking process.
+
 Outra forma de abordar o aprendizado, em que deve haver uma integração entre atividades, discussão e pensamento crítico. Como professor, você dá incentivos para sua turma pensar e discutir, e as atividades/avaliações são uma saída deste processo de discussão/pensamento.
 
+# Think about how the course will happen
